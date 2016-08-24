@@ -1,4 +1,4 @@
-package org.sriram.rest.messenger.resources.beans;
+package org.sriram.rest.messenger.beans;
 
 import javax.ws.rs.QueryParam;
 
